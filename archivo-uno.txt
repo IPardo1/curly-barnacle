@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hace calor
+=======
+console.log("hola")
+>>>>>>> 2cdaed4d2ccbc7154e089c32fd29dd5479bb5360
